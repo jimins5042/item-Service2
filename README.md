@@ -2,6 +2,7 @@
 
 인프런 스프링 MVC 1편 - 백엔드 웹 개발 핵심 기술 강의를 듣고 정리한 문서  
 
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=2jooin1207&slug=mvc)](https://velog.io/@2jooin1207/mvc)
 
 # 웹 기본 동작 방식
 
